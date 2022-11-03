@@ -57,6 +57,26 @@ dkms.conf
 /.metadata
 /RemoteSystemsTempFiles
 
+/DMA_s32k144/.settings
+/DMA_s32k144/Debug/
+/DMA_s32k144/Debug_RAM/
+/DMA_s32k144/Release/
+
+/hello_interrupts_s32k144/.settings
+/hello_interrupts_s32k144/Debug/
+/hello_interrupts_s32k144/Debug_RAM/
+/hello_interrupts_s32k144/Release/
+
+/hello_s32k144/.settings
+/hello_s32k144/Debug/
+/hello_s32k144/Debug_RAM/
+/hello_s32k144/Release/
+
+/LPUART_s32k144/.settings
+/LPUART_s32k144/Debug/
+/LPUART_s32k144/Debug_RAM/
+/LPUART_s32k144/Release/
+
 /lpuart_echo_dma_s32k142/.settings
 /lpuart_echo_dma_s32k142/Debug/
 /lpuart_echo_dma_s32k142/Debug_Configurations/
