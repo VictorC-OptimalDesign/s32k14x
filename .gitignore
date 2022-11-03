@@ -56,3 +56,21 @@ dkms.conf
 
 /.metadata
 /RemoteSystemsTempFiles
+
+/lpuart_echo_dma_s32k142/.settings
+/lpuart_echo_dma_s32k142/Debug/
+/lpuart_echo_dma_s32k142/Debug_Configurations/
+/lpuart_echo_dma_s32k142/Debug_FLASH/
+/lpuart_echo_dma_s32k142/Debug_RAM/
+/lpuart_echo_dma_s32k142/Release/
+/lpuart_echo_dma_s32k142/.lpuart_echo_dma_s32k142.g_c
+/lpuart_echo_dma_s32k142/.lpuart_echo_dma_s32k142.g_x
+
+/lpuart_echo_irq_s32k142/.settings
+/lpuart_echo_irq_s32k142/Debug/
+/lpuart_echo_irq_s32k142/Debug_Configurations/
+/lpuart_echo_irq_s32k142/Debug_FLASH/
+/lpuart_echo_irq_s32k142/Debug_RAM/
+/lpuart_echo_irq_s32k142/Release/
+/lpuart_echo_irq_s32k142/.lpuart_echo_irq_s32k142.g_c
+/lpuart_echo_irq_s32k142/.lpuart_echo_irq_s32k142.g_x
